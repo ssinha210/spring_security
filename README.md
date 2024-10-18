@@ -32,7 +32,3 @@ This project is a Spring Boot application that demonstrates role-based authentic
 - The home page (`/`) is accessible by all without any authentication.
 - The `/admin` endpoint returns a 401 Unauthorized error if accessed without proper authentication.
 - With authentication, both `/admin` and `/user` endpoints are accessible based on the user roles.
-
----
-
-Feel free to modify this README as needed for your project. Let me know if you need any further assistance!
